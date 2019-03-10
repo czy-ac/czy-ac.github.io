@@ -2,24 +2,23 @@
 ## Published papers as listed as follows.
 
 ### Wind Turbine Control & Optimization
-* Coordinated pitch & torque control of large-scale wind turbine based on Pareto efficiency analysis. Energy, 147, 812-825.</br>
-&emsp;https://www.sciencedirect.com/science/article/pii/S0360544218300665
+* Coordinated pitch & torque control of large-scale wind turbine based on Pareto efficiency analysis. Energy, 147, 812-825.  &emsp;https://www.sciencedirect.com/science/article/pii/S0360544218300665
   
-* Coordinated mechanical loads and power optimization of wind energy conversion systems with variable-weight model predictive control strategy. Applied energy, 236, 307-317.</br>
+* Coordinated mechanical loads and power optimization of wind energy conversion systems with variable-weight model predictive control strategy. Applied energy, 236, 307-317.  
 &emsp;https://www.sciencedirect.com/science/article/pii/S0306261918318051
   
-* Regional pole placement and feedback linearization of nonlinear wind turbine control system. In 2017 American Control Conference (ACC) (pp. 723-728). IEEE.</br>
+* Regional pole placement and feedback linearization of nonlinear wind turbine control system. In 2017 American Control Conference (ACC) (pp. 723-728). IEEE.  
 &emsp;https://ieeexplore.ieee.org/document/7963038
   
-* A Torque Coordination Control Strategy for Wind Turbine Based on Pole Placement. In 2018 37th Chinese Control Conference (CCC) (pp. 7387-7393). IEEE.</br>
+* A Torque Coordination Control Strategy for Wind Turbine Based on Pole Placement. In 2018 37th Chinese Control Conference (CCC) (pp. 7387-7393). IEEE.  
 &emsp;https://ieeexplore.ieee.org/document/8483512
   
 ### Wind Farm Active Power Control
-* Closed-loop active power control of wind farm based on frequency domain analysis. Electric Power Systems Research, 170, 13-24.</br>
+* Closed-loop active power control of wind farm based on frequency domain analysis. Electric Power Systems Research, 170, 13-24.  
 &emsp;https://www.sciencedirect.com/science/article/pii/S0378779619300033?dgcid=coauthor
   
-* Variable-Constrained Model Predictive Control of Coordinated Active Power Distribution for Wind-Turbine Cluster. Applied Sciences, 9(1), 112.</br>
+* Variable-Constrained Model Predictive Control of Coordinated Active Power Distribution for Wind-Turbine Cluster. Applied Sciences, 9(1), 112.  
 &emsp;https://www.mdpi.com/2076-3417/9/1/112
   
-* Receding Horizon Optimization of Wind Farm Active Power Distribution with Power Tracking Error and Transmission Loss. Processes, 6(12), 259.</br>
+* Receding Horizon Optimization of Wind Farm Active Power Distribution with Power Tracking Error and Transmission Loss. Processes, 6(12), 259.  
 &emsp;https://www.mdpi.com/2227-9717/6/12/259/htm
