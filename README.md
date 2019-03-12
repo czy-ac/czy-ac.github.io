@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages
+## E-Mail : czy_ac@outlook.com
 ### Wind Turbine Control & Optimization
 * Coordinated pitch & torque control of large-scale wind turbine based on Pareto efficiency analysis. Energy, 147, 812-825.  https://www.sciencedirect.com/science/article/pii/S0360544218300665
   
