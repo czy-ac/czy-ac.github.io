@@ -4,6 +4,9 @@
   
 * Coordinated mechanical loads and power optimization of wind energy conversion systems with variable-weight model predictive control strategy. Applied energy, 236, 307-317.  
 https://www.sciencedirect.com/science/article/pii/S0306261918318051
+
+* Multi-objective optimization of wind turbine via controllers coordination and sensitivity analysis. In 2019 Renewable Power Generation Conference (RPG). IET
+https://digital-library.theiet.org/content/conferences/10.1049/cp.2019.0342
   
 * Regional pole placement and feedback linearization of nonlinear wind turbine control system. In 2017 American Control Conference (ACC) (pp. 723-728). IEEE.  
 https://ieeexplore.ieee.org/document/7963038
