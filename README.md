@@ -24,6 +24,9 @@ https://www.mdpi.com/2076-3417/9/1/112
 * Receding Horizon Optimization of Wind Farm Active Power Distribution with Power Tracking Error and Transmission Loss. Processes, 6(12), 259.  
 https://www.mdpi.com/2227-9717/6/12/259/htm
 
+* A Wind Farm Active Power Dispatch Strategy Considering the Wind Turbine Power-Tracking Characteristic via Model Predictive Control. Processes, 2019, 7(8): 530.
+https://www.mdpi.com/2227-9717/7/8/530
+
 ### Other Work
 * Condition Monitoring of Wind Turbine Gearbox Bearing Based on Deep Learning Model. IEEE Access, 2019, 7: 57078-57087.
 https://ieeexplore.ieee.org/document/8695009
