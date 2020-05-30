@@ -10,6 +10,9 @@ https://digital-library.theiet.org/content/conferences/10.1049/cp.2019.0342
   
 * Regional pole placement and feedback linearization of nonlinear wind turbine control system. In 2017 American Control Conference (ACC) (pp. 723-728). IEEE.  
 https://ieeexplore.ieee.org/document/7963038
+
+* 大型风电机组的模糊增益调度PI控制器设计[J/OL].中国电力:1-9[2020-05-30].
+http://kns.cnki.net/kcms/detail/11.3265.TM.20200225.2113.010.html.
   
 * A Torque Coordination Control Strategy for Wind Turbine Based on Pole Placement. In 2018 37th Chinese Control Conference (CCC) (pp. 7387-7393). IEEE.  
 https://ieeexplore.ieee.org/document/8483512
@@ -20,6 +23,9 @@ https://www.sciencedirect.com/science/article/pii/S0378779619300033?dgcid=coauth
   
 * Variable-Constrained Model Predictive Control of Coordinated Active Power Distribution for Wind-Turbine Cluster. Applied Sciences, 9(1), 112.  
 https://www.mdpi.com/2076-3417/9/1/112
+
+* A hierarchical clustering-based optimization strategy for active power dispatch of large-scale wind farm. International Journal of Electrical Power & Energy Systems, Volume 121, October 2020, 106155
+https://www.sciencedirect.com/science/article/abs/pii/S0142061520306992
   
 * Receding Horizon Optimization of Wind Farm Active Power Distribution with Power Tracking Error and Transmission Loss. Processes, 6(12), 259.  
 https://www.mdpi.com/2227-9717/6/12/259/htm
