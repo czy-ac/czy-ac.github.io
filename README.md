@@ -2,7 +2,6 @@
 
 ### Wind Turbine Wake and Wind Farm Flow Modeling & Optimization
 * 风电机组动态尾流频域特性分析与建模[J].智慧电力,2020,48(07):1-7+37.
-https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XBDJ202007003&v=Mjc4NDVMRzRITkhNcUk5Rlo0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmYitWdUZ5RG1WTHZQUFMvUFo=
 
 ### Wind Farm Active Power Control
 * Closed-loop active power control of wind farm based on frequency domain analysis. Electric Power Systems Research, 170, 13-24.  
