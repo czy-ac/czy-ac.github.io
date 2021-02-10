@@ -1,6 +1,9 @@
 ## E-Mail : czy_ac@outlook.com
 
 ### Wind Turbine Wake and Wind Farm Flow Modeling & Optimization
+* Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC)
+https://ieeexplore.ieee.org/document/9327624
+
 * 风电机组动态尾流频域特性分析与建模[J].智慧电力,2020,48(07):1-7+37.
 
 ### Wind Farm Active Power Control
