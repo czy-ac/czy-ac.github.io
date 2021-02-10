@@ -1,7 +1,7 @@
 ## E-Mail : czy_ac@outlook.com
 
 ### Wind Turbine Wake and Wind Farm Flow Modeling & Optimization
-* Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC)
+* Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC).
 https://ieeexplore.ieee.org/document/9327624
 
 * 风电机组动态尾流频域特性分析与建模[J].智慧电力,2020,48(07):1-7+37.
@@ -13,7 +13,7 @@ https://www.sciencedirect.com/science/article/pii/S0378779619300033?dgcid=coauth
 * Variable-Constrained Model Predictive Control of Coordinated Active Power Distribution for Wind-Turbine Cluster. Applied Sciences, 9(1), 112.  
 https://www.mdpi.com/2076-3417/9/1/112
 
-* A hierarchical clustering-based optimization strategy for active power dispatch of large-scale wind farm. International Journal of Electrical Power & Energy Systems, Volume 121, October 2020, 106155
+* A hierarchical clustering-based optimization strategy for active power dispatch of large-scale wind farm. International Journal of Electrical Power & Energy Systems, Volume 121, October 2020, 106155.
 https://www.sciencedirect.com/science/article/abs/pii/S0142061520306992
   
 * Receding Horizon Optimization of Wind Farm Active Power Distribution with Power Tracking Error and Transmission Loss. Processes, 6(12), 259.  
