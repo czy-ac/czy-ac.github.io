@@ -1,10 +1,16 @@
 ## E-Mail : czy_ac@outlook.com
 
 ### Wind Turbine Wake and Wind Farm Flow Modeling & Optimization
+* Data-Driven Wind Turbine Wake Decomposition and Evolution Analysis: A Frequency Characteristics-based Clustering Procedure. The 40th Chinese Control Conference (CCC 2021)
+
 * Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC).
 https://ieeexplore.ieee.org/document/9327624
 
 * 风电机组动态尾流频域特性分析与建模[J].智慧电力,2020,48(07):1-7+37.
+https://www.cnki.com.cn/Article/CJFDTotal-XBDJ202007003.htm
+
+* Control-Oriented Wind Farm Wake Modeling with Near Wake Performance and LES Validation. 2020 Chinese Automation Congress (CAC).
+https://ieeexplore.ieee.org/document/9326797
 
 ### Wind Farm Active Power Control
 * Closed-loop active power control of wind farm based on frequency domain analysis. Electric Power Systems Research, 170, 13-24.  
@@ -41,5 +47,8 @@ http://kns.cnki.net/kcms/detail/11.3265.TM.20200225.2113.010.html.
 https://ieeexplore.ieee.org/document/8483512
 
 ### Other Cooperative Work
+* System analysis and controller design for the electric pump of a deep-throttling rocket engine. Aerospace Science and Technology, Volume 114, July 2021
+https://www.sciencedirect.com/science/article/pii/S127096382100239X
+
 * Condition Monitoring of Wind Turbine Gearbox Bearing Based on Deep Learning Model. IEEE Access, 2019, 7: 57078-57087.
 https://ieeexplore.ieee.org/document/8695009
