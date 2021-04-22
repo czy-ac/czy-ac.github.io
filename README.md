@@ -3,16 +3,13 @@
 ### Wind Turbine Wake and Wind Farm Flow Modeling & Optimization
 * Data-Driven Wind Turbine Wake Decomposition and Evolution Analysis: A Frequency Characteristics-based Clustering Procedure. The 40th Chinese Control Conference (CCC 2021)
 
-* Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC).
-
+* Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC).  
 https://ieeexplore.ieee.org/document/9327624
 
-* 风电机组动态尾流频域特性分析与建模[J].智慧电力,2020,48(07):1-7+37.
-
+* 风电机组动态尾流频域特性分析与建模[J].智慧电力,2020,48(07):1-7+37.  
 https://www.cnki.com.cn/Article/CJFDTotal-XBDJ202007003.htm
 
-* Control-Oriented Wind Farm Wake Modeling with Near Wake Performance and LES Validation. 2020 Chinese Automation Congress (CAC).
-
+* Control-Oriented Wind Farm Wake Modeling with Near Wake Performance and LES Validation. 2020 Chinese Automation Congress (CAC).  
 https://ieeexplore.ieee.org/document/9326797
 
 ### Wind Farm Active Power Control
@@ -22,17 +19,18 @@ https://www.sciencedirect.com/science/article/pii/S0378779619300033?dgcid=coauth
 * Variable-Constrained Model Predictive Control of Coordinated Active Power Distribution for Wind-Turbine Cluster. Applied Sciences, 9(1), 112.  
 https://www.mdpi.com/2076-3417/9/1/112
 
-* A hierarchical clustering-based optimization strategy for active power dispatch of large-scale wind farm. International Journal of Electrical Power & Energy Systems, Volume 121, October 2020, 106155.
+* A hierarchical clustering-based optimization strategy for active power dispatch of large-scale wind farm. International Journal of Electrical Power & Energy Systems, Volume 121, October 2020, 106155.  
 https://www.sciencedirect.com/science/article/abs/pii/S0142061520306992
   
 * Receding Horizon Optimization of Wind Farm Active Power Distribution with Power Tracking Error and Transmission Loss. Processes, 6(12), 259.  
 https://www.mdpi.com/2227-9717/6/12/259/htm
 
-* A Wind Farm Active Power Dispatch Strategy Considering the Wind Turbine Power-Tracking Characteristic via Model Predictive Control. Processes, 2019, 7(8): 530.
+* A Wind Farm Active Power Dispatch Strategy Considering the Wind Turbine Power-Tracking Characteristic via Model Predictive Control. Processes, 2019, 7(8): 530.  
 https://www.mdpi.com/2227-9717/7/8/530
 
 ### Wind Turbine Control & Optimization
-* Coordinated pitch & torque control of large-scale wind turbine based on Pareto efficiency analysis. Energy, 147, 812-825.  https://www.sciencedirect.com/science/article/pii/S0360544218300665
+* Coordinated pitch & torque control of large-scale wind turbine based on Pareto efficiency analysis. Energy, 147, 812-825.
+https://www.sciencedirect.com/science/article/pii/S0360544218300665
   
 * Coordinated mechanical loads and power optimization of wind energy conversion systems with variable-weight model predictive control strategy. Applied energy, 236, 307-317.  
 https://www.sciencedirect.com/science/article/pii/S0306261918318051
