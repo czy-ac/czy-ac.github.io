@@ -32,24 +32,24 @@ https://www.mdpi.com/2227-9717/7/8/530
 * Coordinated pitch & torque control of large-scale wind turbine based on Pareto efficiency analysis. Energy, 147, 812-825.
 https://www.sciencedirect.com/science/article/pii/S0360544218300665
   
-* Coordinated mechanical loads and power optimization of wind energy conversion systems with variable-weight model predictive control strategy. Applied energy, 236, 307-317.  
+* Coordinated mechanical loads and power optimization of wind energy conversion systems with variable-weight model predictive control strategy. Applied energy, 236, 307-317.   
 https://www.sciencedirect.com/science/article/pii/S0306261918318051
 
-* Multi-objective optimization of wind turbine via controllers coordination and sensitivity analysis. In 8th Renewable Power Generation Conference (RPG 2019), 2019 page (9 pp.). IET. 
+* Multi-objective optimization of wind turbine via controllers coordination and sensitivity analysis. In 8th Renewable Power Generation Conference (RPG 2019), 2019 page (9 pp.). IET.   
 https://digital-library.theiet.org/content/conferences/10.1049/cp.2019.0342
   
 * Regional pole placement and feedback linearization of nonlinear wind turbine control system. In 2017 American Control Conference (ACC) (pp. 723-728). IEEE.  
 https://ieeexplore.ieee.org/document/7963038
 
-* 大型风电机组的模糊增益调度PI控制器设计[J/OL].中国电力:1-9[2020-05-30].
+* 大型风电机组的模糊增益调度PI控制器设计[J/OL].中国电力:1-9[2020-05-30].  
 http://kns.cnki.net/kcms/detail/11.3265.TM.20200225.2113.010.html.
   
 * A Torque Coordination Control Strategy for Wind Turbine Based on Pole Placement. In 2018 37th Chinese Control Conference (CCC) (pp. 7387-7393). IEEE.  
 https://ieeexplore.ieee.org/document/8483512
 
 ### Other Cooperative Work
-* System analysis and controller design for the electric pump of a deep-throttling rocket engine. Aerospace Science and Technology, Volume 114, July 2021
+* System analysis and controller design for the electric pump of a deep-throttling rocket engine. Aerospace Science and Technology, Volume 114, July 2021  
 https://www.sciencedirect.com/science/article/pii/S127096382100239X
 
-* Condition Monitoring of Wind Turbine Gearbox Bearing Based on Deep Learning Model. IEEE Access, 2019, 7: 57078-57087.
+* Condition Monitoring of Wind Turbine Gearbox Bearing Based on Deep Learning Model. IEEE Access, 2019, 7: 57078-57087.  
 https://ieeexplore.ieee.org/document/8695009
