@@ -4,12 +4,15 @@
 * Data-Driven Wind Turbine Wake Decomposition and Evolution Analysis: A Frequency Characteristics-based Clustering Procedure. The 40th Chinese Control Conference (CCC 2021)
 
 * Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC).
+
 https://ieeexplore.ieee.org/document/9327624
 
 * 风电机组动态尾流频域特性分析与建模[J].智慧电力,2020,48(07):1-7+37.
+
 https://www.cnki.com.cn/Article/CJFDTotal-XBDJ202007003.htm
 
 * Control-Oriented Wind Farm Wake Modeling with Near Wake Performance and LES Validation. 2020 Chinese Automation Congress (CAC).
+
 https://ieeexplore.ieee.org/document/9326797
 
 ### Wind Farm Active Power Control
