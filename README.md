@@ -5,6 +5,7 @@
 www.sciencedirect.com/science/article/pii/S036054422101971X?dgcid=author
 
 * Data-Driven Wind Turbine Wake Decomposition and Evolution Analysis: A Frequency Characteristics-based Clustering Procedure. The 40th Chinese Control Conference (CCC 2021)
+https://ieeexplore.ieee.org/document/9549689
 
 * Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC).  
 https://ieeexplore.ieee.org/document/9327624
@@ -39,7 +40,7 @@ https://www.sciencedirect.com/science/article/pii/S0360544218300665
 https://www.sciencedirect.com/science/article/pii/S0306261918318051
 
 * Multi-objective optimization of wind turbine via controllers coordination and sensitivity analysis. In 8th Renewable Power Generation Conference (RPG 2019), 2019 page (9 pp.). IET.   
-https://digital-library.theiet.org/content/conferences/10.1049/cp.2019.0342
+https://ieeexplore.ieee.org/document/9041328
   
 * Regional pole placement and feedback linearization of nonlinear wind turbine control system. In 2017 American Control Conference (ACC) (pp. 723-728). IEEE.  
 https://ieeexplore.ieee.org/document/7963038
