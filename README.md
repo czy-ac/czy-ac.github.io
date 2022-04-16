@@ -4,10 +4,10 @@
 * Dynamic wind turbine wake reconstruction: A Koopman-linear flow estimator. Energy, Volume 238, Part B, 1 January 2022, 121723.
 www.sciencedirect.com/science/article/pii/S036054422101971X?dgcid=author
 
-* Control-oriented Low-order Approximation and Reconstruction of Yaw-excited Wind Turbine Wake Dynamics. IEEE Transactions on Industrial Informatics. 10.1109/TII.2022.3167469
+* Control-oriented Low-order Approximation and Reconstruction of Yaw-excited Wind Turbine Wake Dynamics. IEEE Transactions on Industrial Informatics. 10.1109/TII.2022.3167469.
 https://ieeexplore.ieee.org/document/9757873
 
-* Data-Driven Wind Turbine Wake Decomposition and Evolution Analysis: A Frequency Characteristics-based Clustering Procedure. The 40th Chinese Control Conference (CCC 2021)
+* Data-Driven Wind Turbine Wake Decomposition and Evolution Analysis: A Frequency Characteristics-based Clustering Procedure. The 40th Chinese Control Conference (CCC 2021).
 https://ieeexplore.ieee.org/document/9549689
 
 * Data-Driven Modeling & Analysis of Dynamic Wake for Wind Farm Control: A Comparison Study. 2020 Chinese Automation Congress (CAC).  
@@ -55,7 +55,7 @@ d.wanfangdata.com.cn/periodical/zgdl202006014
 https://ieeexplore.ieee.org/document/8483512
 
 ### Other Cooperative Work
-* System analysis and controller design for the electric pump of a deep-throttling rocket engine. Aerospace Science and Technology, Volume 114, July 2021  
+* System analysis and controller design for the electric pump of a deep-throttling rocket engine. Aerospace Science and Technology, Volume 114, July 2021.
 www.sciencedirect.com/science/article/pii/S127096382100239X
 
 * Condition Monitoring of Wind Turbine Gearbox Bearing Based on Deep Learning Model. IEEE Access, 2019, 7: 57078-57087.  
