@@ -4,6 +4,9 @@
 * Dynamic wind turbine wake reconstruction: A Koopman-linear flow estimator. Energy, Volume 238, Part B, 1 January 2022, 121723.
 www.sciencedirect.com/science/article/pii/S036054422101971X?dgcid=author
 
+* Control-oriented Low-order Approximation and Reconstruction of Yaw-excited Wind Turbine Wake Dynamics. IEEE Transactions on Industrial Informatics. 10.1109/TII.2022.3167469
+ieeexplore.ieee.org/document/9757873
+
 * Data-Driven Wind Turbine Wake Decomposition and Evolution Analysis: A Frequency Characteristics-based Clustering Procedure. The 40th Chinese Control Conference (CCC 2021)
 ieeexplore.ieee.org/document/9549689
 
