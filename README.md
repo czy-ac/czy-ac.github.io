@@ -59,7 +59,7 @@ https://ieeexplore.ieee.org/document/8483512
 www.sciencedirect.com/science/article/abs/pii/S0360544221030449
 
 * A New Boiler-turbine-heating Coordinated Control Strategy to Improve the Operating Flexibility of CHP Units. International Journal of Control, Automation and Systems, 2022: 1-13.
-link.springer.com/article/10.1007/s12555-020-0926-3
+https://link.springer.com/article/10.1007/s12555-020-0926-3
 
 * Modeling and Optimization of Integrated Energy System for Renewable Power Penetration considering Carbon and Pollutant Reduction Systems. Frontiers in Energy Research, 2021
 www.frontiersin.org/article/10.3389/fenrg.2021.767277     
