@@ -54,6 +54,16 @@ d.wanfangdata.com.cn/periodical/zgdl202006014
 * A Torque Coordination Control Strategy for Wind Turbine Based on Pole Placement. In 2018 37th Chinese Control Conference (CCC) (pp. 7387-7393). IEEE.  
 https://ieeexplore.ieee.org/document/8483512
 
+### Cooperative Work on Electric-Heat Integrated Energy System
+* Modeling and optimal dispatch of a carbon-cycle integrated energy system for low-carbon and economic operation. Energy, 2022, 240: 122795.
+www.sciencedirect.com/science/article/abs/pii/S0360544221030449
+
+* A New Boiler-turbine-heating Coordinated Control Strategy to Improve the Operating Flexibility of CHP Units. International Journal of Control, Automation and Systems, 2022: 1-13.
+link.springer.com/article/10.1007/s12555-020-0926-3
+
+* Modeling and Optimization of Integrated Energy System for Renewable Power Penetration considering Carbon and Pollutant Reduction Systems. Frontiers in Energy Research, 2021
+www.frontiersin.org/article/10.3389/fenrg.2021.767277     
+
 ### Other Cooperative Work
 * System analysis and controller design for the electric pump of a deep-throttling rocket engine. Aerospace Science and Technology, Volume 114, July 2021.
 www.sciencedirect.com/science/article/pii/S127096382100239X
