@@ -7,6 +7,9 @@ www.sciencedirect.com/science/article/pii/S036054422101971X?dgcid=author
 * Control-oriented Low-order Approximation and Reconstruction of Yaw-excited Wind Turbine Wake Dynamics. IEEE Transactions on Industrial Informatics. 10.1109/TII.2022.3167469.
 https://ieeexplore.ieee.org/document/9757873
 
+* Amplitude-optimized Koopman-linear flow estimator for wind turbine wake dynamics: Approximation, prediction and reconstruction[J]. Energy, 2023, 263: 125894.
+https://www.sciencedirect.com/science/article/abs/pii/S0360544222027803
+
 * Data-Driven Wind Turbine Wake Decomposition and Evolution Analysis: A Frequency Characteristics-based Clustering Procedure. The 40th Chinese Control Conference (CCC 2021).
 https://ieeexplore.ieee.org/document/9549689
 
